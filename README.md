@@ -10,7 +10,14 @@
 
  🌍 I'm based in Vietnamese 
  
+ 🔭 I’m currently working for **NashTech**
+
  </div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=klay2911&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=klay2911&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Languages" />
+</div>
 
 <div align="center"> 
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=thienvu291102@gmail.com">
@@ -38,12 +45,15 @@
   <br/><br/><br/>
 <hr/>
 <br>
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  <br/><br/><br/>
-</div>
+<h3 align="left">📈 My Commit Stats</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/klay2911/klay2911/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/klay2911/klay2911/output/github-snake.svg" />
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/klay2911/klay2911/output/snake.svg" />
+</picture>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=klay2911&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <hr/>
 <br>
