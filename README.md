@@ -38,9 +38,10 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cs,java,dotnet,sqlServer,javascript" /><br>
-  <img src="https://skillicons.dev/icons?i=html,css,react,vue,mui,tailwind" /><br>
-    <img src="https://skillicons.dev/icons?i=visualstudio,rider,github,vscode,postman" />
+    <img src="https://skillicons.dev/icons?i=cs,java,dotnet,vite" /><br>
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,rider,github,postman,obsidian" /><br>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,vue,vite,mui,tailwind" /><br>
+
 </div>
   <br/><br/><br/>
 <hr/>
